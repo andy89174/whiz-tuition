@@ -1,0 +1,1 @@
+{"version":3,"file":"createReviewRequest.d.ts","sourceRoot":"","sources":["../../../src/generated/types/createReviewRequest.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,mBAAmB;IAClC,SAAS,EAAE,MAAM,CAAC;IAClB,OAAO,EAAE,MAAM,CAAC;IAChB;;;OAGG;IACH,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB"}

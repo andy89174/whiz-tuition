@@ -1,0 +1,1 @@
+{"version":3,"file":"createBidRequest.d.ts","sourceRoot":"","sources":["../../../src/generated/types/createBidRequest.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,gBAAgB;IAC/B,UAAU,EAAE,MAAM,CAAC;IACnB,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,EAAE,MAAM,CAAC;IAChB,iBAAiB,EAAE,MAAM,CAAC;CAC3B"}
